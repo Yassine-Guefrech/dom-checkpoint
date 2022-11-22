@@ -1,0 +1,65 @@
+
+a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 900;
+    color: #80ced6;
+}
+a:hover{
+    color: #618685;
+}
+nav{
+    display: flex;
+    justify-content:space-around;
+    position: sticky;
+}
+section{
+    display: flex;
+    justify-content: center;
+}
+.hear{
+    color: red;
+}
+div{
+    border: 1px solid white;
+    border-radius: 5px;
+    background-color: #80ced6; 
+    margin-left: 25px;
+}
+img{
+    width: 150px;
+    height: 200px;
+}
+h2{
+    color: white;
+    text-align:center ;
+}
+h3{
+    color: white;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: #80ced6 ;
+}
+.fa-trash{
+    color:white;
+    margin-left: 30px;
+}
+.fa-heart{
+    color: white;
+    margin-left:50px ;
+}
+span{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+button{
+    border: 2px solid blue;
+}
+button{
+    color:#80ced6;
+    font-size: 20px;
+    font-weight: bold;
+}
