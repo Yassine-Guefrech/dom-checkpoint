@@ -17,9 +17,7 @@ section{
     display: flex;
     justify-content: center;
 }
-.hear{
-    color: red;
-}
+
 div{
     border: 1px solid white;
     border-radius: 5px;
@@ -49,6 +47,10 @@ h1{
 .fa-heart{
     color: white;
     margin-left:50px ;
+}
+
+.hear{
+    color: red;
 }
 span{
     color: white;
